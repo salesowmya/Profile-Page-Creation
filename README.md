@@ -1,4 +1,5 @@
-# Profile-Page-Creation
+# ${{} Profile\ Page\ Creation\ }$
+
 Description
 - This project is a simple, beginner-friendly personal profile web page designed using HTML, CSS, and JavaScript. It showcases a basic online profile or resume introduction for a student named Aditi.
 
